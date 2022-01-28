@@ -4,7 +4,7 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
+Dr. Ben Coleman
 Ben (again)
 Michael Cheese
 
